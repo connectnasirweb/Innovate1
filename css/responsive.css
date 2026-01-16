@@ -1,0 +1,247 @@
+@media (min-width:320px) and (max-width:575.99px){
+	p {
+  font-size: 12px;
+  font-weight: 400;
+  color: #29313d;
+  margin-bottom: 0;
+  font-family: "Nunito", sans-serif;
+}
+.btn {
+  font-size: 14px;
+  padding: 10px 20px;
+}
+/* Navbar part start */
+.navbar-toggler{
+	font-size: 14px;
+	color: #000;
+}
+.navbar-collapse{
+	text-align: center;
+}
+.nav-item{
+	padding-bottom: 20px;
+}
+.navbar-toggler:focus{
+	box-shadow: none;
+}
+.nav-content {
+  width: auto;
+  padding-top: 70px;
+}
+.nav-content h1 {
+  font-size: 40px;
+}
+.nav-content p {
+  width: auto;
+  padding-bottom: 35px;
+}
+nav .row {
+  padding-top: 90px;
+}
+nav .row .card {
+  padding: 20px 20px;
+  width: auto;
+  margin-top: 20px;
+}
+nav .row .card img {
+  width: 20%;
+}
+.row .card h5 {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+/* Navbar part end */
+
+/* Experience part start */
+.experience {
+  padding-top: 74px;
+  padding-bottom: 20px;
+}
+.ex-heading .text h2 {
+  width: auto;
+  padding-bottom: 25px;
+}
+
+.experience h2 {
+  font-size: 25px;
+  line-height: 120%;
+}
+.ex-heading {
+  display: block;
+}
+.ex-content {
+  display: block;
+}
+.ex-info {
+  width: auto;
+  height: auto;
+}
+.ex-img {
+  width: 125%;
+  height: auto;
+}
+.ex-img img {
+  width: 80%;
+  height: 50%;
+}
+.ex-text {
+  padding: 19px;
+  height: auto;
+}
+.ex-text h5 {
+  font-size: 20px;
+}
+.ex-text p {
+  font-size: 12px;
+}
+.eco-img {
+  width: 42%;
+  height: auto;
+}
+.eco-info {
+  width: 239%;
+  height: auto;
+}
+/* Experience part end */
+
+/* Work part start */
+.work {
+  padding: 0 0;
+}
+.work .w-card {
+  width: auto;
+  height: auto;
+  padding: 0 0;
+  text-align: center;
+}
+.work .w-card h3 {
+  font-size: 25px;
+}
+.work .card-row {
+  padding: 40px 0;
+  justify-content: center;
+}
+.work .content h2 {
+  width: auto;
+  text-align: center;
+	font-size: 30px;
+}
+.work .content {
+  padding-left: 0;
+}
+.work .content p {
+	text-align: center;
+	width: auto;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.work-btn{
+	display: flex;
+	justify-content: center;
+}
+/* Work part end */
+
+/* Companies part start */
+.companies h2 {
+	font-size: 25px;
+	width: auto;
+	padding-bottom: 45px;
+}
+.companies {
+	padding: 80px 0;
+}
+.com-img {
+	width: 10%;
+	height: 50%;
+}
+.com-info {
+	width: auto;
+	padding: 10px 14px;
+}
+.com-info h5 {
+	font-size: 11px;
+	transform: translateY(50%);
+}
+.companies .com {
+	justify-content: center;
+	gap: 20px;
+}
+/* Companies part end */
+
+/* Coustomer  part start */
+.coustomer {
+	padding: 50px 0;
+}
+.coustomer h2 {
+	font-size: 25px;
+}
+.coust-img {
+	margin: 20px 0;
+	width: auto;
+	height: auto;
+}
+.coust-row .coust-img:nth-child(n+3){
+	display: none !important;
+}
+.coustomer p {
+	width: auto;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.coustomer h4 {
+	font-size: 25px;
+}
+.coust-btn .btn {
+	font-size: 17px;
+	padding: 1px 20px;
+}
+.coust-banner img {
+	width: 100%;
+	height: auto;
+}
+.coust-banner {
+	margin-top: 30px;
+	width: auto;
+	height: auto;
+	border-radius: 30px;
+}
+/* Coustomer  part end */
+
+/* Project  part start */
+.project {
+	padding: 35px 0;
+}
+.project h2 {
+	font-size: 25px;
+}
+.project .btn {
+	font-size: 12px;
+	padding: 5px 17px;
+}
+/* Project  part end */
+
+/* Fotter  part start */
+.logo-p {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	width: 100%;
+	text-align: center;
+}
+.fotter h4 {
+	padding-bottom: 9px;
+	font-size: 15px;
+	font-weight: 700;
+}
+.fotter .box p {
+	font-size: 10px;
+}
+.fotter .last{
+	display: flex;
+}
+.fotter .p:nth-child(1) {
+	padding-right: 0;
+}
+/* Fotter  part end */
+
+}

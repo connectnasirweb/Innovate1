@@ -92,6 +92,9 @@ nav .row .card {
   font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
+nav .card-body{
+  padding: 0;
+}
 nav .row .card img {
   height: 80px;
   width: 80px;
