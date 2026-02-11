@@ -33,7 +33,7 @@ h2 {
   font-family: "Poppins", sans-serif;
 }
 /* Navbar part start */
-nav {
+nav{
   background-image: url(../imges/Header.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -230,7 +230,7 @@ nav .row .card img {
   font-weight: 500;
   transform: translateY(50%) translateY(-50%);
   font-family: "Poppins", sans-serif;
-  
+
 }
 .com-img{
   width: 40px;
@@ -240,7 +240,7 @@ nav .row .card img {
   width: 100%;
   height: 100%;
   background-size: cover;
-  
+
 }
 /* Companies part end */
 
